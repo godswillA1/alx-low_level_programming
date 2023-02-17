@@ -4,8 +4,9 @@
 /**
  * main - print a random num
  *
- * Return: Always 0
+ * Return: Always 0(success)
  */
+
 int main(void)
 {
 	int n;
